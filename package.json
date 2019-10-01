@@ -8,7 +8,9 @@
     "src/applications/*",
     "src/packages/*"
   ],
-  "scripts": {},
+  "scripts": {
+    "start": "lerna run start"
+  },
   "devDependencies": {
     "lerna": "latest"
   }

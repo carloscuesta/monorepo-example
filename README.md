@@ -10,5 +10,5 @@ This repository is the source code for the blog post [_JavaScript monorepos with
 
 ```bash
 $ git clone https://github.com/carloscuesta/monorepo-example
-$ cd monorepo-example && yarn install
+$ cd monorepo-example && yarn install && yarn run start
 ```
